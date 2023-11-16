@@ -64,7 +64,7 @@ public class Abiturient {
         this.averageGrade = averageGrade;
     }
 
-    @Override
+
     public String toString() {
         return "Abiturient{" +
                 "id=" + id +
